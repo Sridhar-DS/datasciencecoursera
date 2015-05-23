@@ -1,4 +1,4 @@
-# datasciencecoursera : README for course 3 project work : run_analysis.R script.
+# datasciencecoursera repo : README for course 3 project work : run_analysis.R script.
 
 Source of data
 -http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
