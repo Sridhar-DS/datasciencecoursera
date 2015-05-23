@@ -1,4 +1,4 @@
-## read the training,test and features data.
+## read the training,test and features data 
 
 a.train<-read.table("./X_train.txt",head=FALSE)
 a.test<-read.table("./X_test.txt",head=FALSE)
