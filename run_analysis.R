@@ -1,10 +1,10 @@
-## read the training,test and features data.
+## read the training,test and features data
 
 a.train<-read.table("./X_train.txt",head=FALSE)
 a.test<-read.table("./X_test.txt",head=FALSE)
 a.features<-read.table("./features.txt",head=FALSE)
 
-## merge the tarining and test datasets.
+## merge the tarining and test datasets
 
 train_test<-rbind(a.train,a.test)
 
